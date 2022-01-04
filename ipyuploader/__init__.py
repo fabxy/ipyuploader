@@ -4,7 +4,7 @@
 # Copyright (c) FW.
 # Distributed under the terms of the Modified BSD License.
 
-from .example import ExampleWidget
+from .widget import Uploader
 from ._version import __version__, version_info
 
 def _jupyter_labextension_paths():
